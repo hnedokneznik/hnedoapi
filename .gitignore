@@ -1,0 +1,6 @@
+
+#composer lock file
+composer.lock
+
+#project installed by composer
+/vendor/
